@@ -6,7 +6,7 @@ Hi, thank you for visiting this repository. I created this repository to celebra
 
 Any feedback or comments are sincerely appreciated.
 
-- Jaehoon Sung (Jae)
+\- Jaehoon Sung (Jae)
 
 **How the codes are written**
 
